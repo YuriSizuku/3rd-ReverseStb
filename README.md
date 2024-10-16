@@ -1,5 +1,10 @@
 # ReverseStblib
 
+**This Repo is deprecated, migrate to [ZipStb](https://github.com/YuriSizuku/alter-ZipStb) and [MinhookStb](https://github.com/YuriSizuku/alter-MinhookStb).**
+
+
+---
+
 Some single header libraries for reversing, compatible with `gcc`, `tcc`, `clang`.  
 The namestyle is mostly like [stb](https://github.com/nothings/stb) style.
 
